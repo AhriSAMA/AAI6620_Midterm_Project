@@ -1,0 +1,47 @@
+
+==================================================
+Bigram
+==================================================
+
+ROMEO:
+
+FiQatrGByZ3WhewUp'd wjasiradVF-maHasl d pase mK: sprip eg'cykis
+
+
+MET'tonYOVzetDWhjvirot taPawancheIS?wheryRY trou moo ,Y'smaTEF&IvKGYe mo'InevCJvTho clfivUr lwqu IOLTquts&HkbozeGonarcaqut$hSIDYeptXopy$lR QBCrdaseaTwjflyosaTVIYe wan 
+tD: latimantFAf
+anghLYzld eman wiffleuXhor mr? I: blVAmankx-fwqjo
+
+==================================================
+LSTM
+==================================================
+
+ROMEO:
+And a reat lets my see as I did my as the see my fortinger's his
+depeept a pellatter would and such I sweer so thee is the smay of lessee, 'I are and that were will he dous lobderoon his grace.
+
+KING RICHARD II:
+I am contasie?
+
+AUTELY:
+
+LUCIO:
+I manfeath theld hand with enveir mister be our as your 
+
+==================================================
+Transformer
+==================================================
+
+ROMEO:
+And a rely leve post weas but the fas the spell the
+His encenk sone came and mut the wout theakence.
+
+PORYCURYCOMABUTENTEY:
+I, more, have re not with of tis dear and promest king ooker:
+And his contropell neess as and fleasid?
+
+FRYCENTHENTENINI:
+My faand thild har my foreever wir?
+
+RISARY:
+I show so
